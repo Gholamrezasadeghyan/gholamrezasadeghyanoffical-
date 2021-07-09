@@ -2,7 +2,7 @@
 {
   "@context": "https://schema.org/",
   "@type": "Person",
-  "name": "Gholamreza sadeghiyan(غلامرضا صادقیان)",
+  "name": "Gholamreza sadeghyan(غلامرضا صادقیان)",
   "url": "",
   "image": "",
   "sameAs": [
